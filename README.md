@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👩‍🌾 Olá, eu sou a Isa!
 
-<!--
-**isacdcunha/isacdcunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table align="center">
+  <tr>
+    <td width="200px" align="center">
+      <img src="" width="150px" alt="Farmer Portrait" />
+      <br />
+      <sub><b>Fazendeiro(a) da TI</b></sub>
+    </td>
+    <td width="400px" valign="top">
+      <h3>📜 Biografia</h3>
+      <p>Desenvolvedor apaixonado por café, noites chuvosas e automações.</p>
+      <hr />
+      <h4>🎂 Aniversário: <kbd>Outono 24</kbd></h4>
+      <h4>📍 Localização: <kbd>Vila Pelicano</kbd></h4>
+    </td>
+  </tr>
+</table>
 
-Here are some ideas to get you started:
+### 🌟 Presentes Favoritos (Gostos e Desgostos)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| ❤️ Ama | ❌ Odeia |
+| :--- | :--- |
+| ☕ Café de Espresso Triplo | 🐛 Ervas Daninhas |
+| 💻 Clean Code | ⚠️ Bugs em Produção |
+| 🍕 Pizza | ☕ Café Descafeinado |
