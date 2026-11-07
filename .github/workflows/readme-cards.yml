@@ -37,14 +37,14 @@ jobs:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&bg_color=F4F3EE&title_color=2B3AB0&icon_color=C2311F&text_color=1B1B1F&locale=pt-br
           path: profile/stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.README_STATS_TOKEN }}
 
       - uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&bg_color=F4F3EE&title_color=2B3AB0&text_color=1B1B1F&locale=pt-br
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.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 }}
 
       - name: Salvar os cards
         run: |
