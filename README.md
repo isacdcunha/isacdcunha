@@ -3,7 +3,7 @@
 <table align="center">
   <tr>
     <td width="200px" align="center">
-      <img src="" width="150px" alt="Farmer Portrait" />
+      <img src="imgs/portrait.png" width="150px" alt="Farmer Portrait" />
       <br />
       <sub><b>Fazendeiro(a) da TI</b></sub>
     </td>
