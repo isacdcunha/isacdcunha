@@ -33,15 +33,6 @@ Também uso **n8n** pra automações e **EasyPanel** pra deploy.
 ### Estatísticas
 
 <p align="center">
-  <img height="165" src="profile/stats.svg" alt="Estatísticas do GitHub" />
-  <img height="165" src="profile/top-langs.svg" alt="Linguagens mais usadas" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=isacdcunha&hide_border=true&background=F4F3EE&ring=2B3AB0&fire=C2311F&currStreakNum=1B1B1F&sideNums=1B1B1F&currStreakLabel=2B3AB0&sideLabels=1B1B1F&dates=4A4A55&locale=pt_BR" alt="Sequência de contribuições" />
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/isacdcunha/isacdcunha/output/cobrinha-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/isacdcunha/isacdcunha/output/cobrinha.svg" />
